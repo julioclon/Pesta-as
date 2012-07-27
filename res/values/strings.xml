@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Proyecto5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Password</string>
+    <string name="title_activity_ventana1">Ventana1</string>
+    <string name="title_activity_ventana_principal">VentanaPrincipal</string>
+    <string name="title_activity_ventana2">Ventana2</string>
+    <string name="title_activity_ventana3">Ventana3</string>
+    <string name="title_activity_ventana4">Ventana4</string>
+    <string name="title_activity_ventana5">Ventana5</string>
+
+</resources>
